@@ -16,6 +16,9 @@ a {
   padding: 0 15px;
   margin: 0 auto;
 }
+.h2 {
+  color: red;
+}
 
 .top-wrapper {
   padding: 180px 0 100px 0;
