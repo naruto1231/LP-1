@@ -4,7 +4,7 @@ LP-1
 Overview
 This is simple LP.
 ## Description
-
+If  you wannna change theme please use this theme.
 ## Demo
 
 ## VS. 
@@ -12,7 +12,7 @@ This is simple LP.
 ## Requirement
 
 ## Usage
-
+You update this theme your site directory theme.
 ## Install
 
 ## Contribution
